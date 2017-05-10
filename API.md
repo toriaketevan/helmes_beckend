@@ -10,11 +10,11 @@
 
 * **Data Params exapmle**
 
-  {
-  	"title": "post1",
-  	"date": "2017-10-10",
-  	"text": "post1 text1"
-  }
+        {
+            "title": "post1",
+            "date": "2017-10-10",
+            "text": "post1 text1"
+        }
 
 * **Success Response example:**
 
