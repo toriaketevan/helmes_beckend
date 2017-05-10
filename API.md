@@ -21,11 +21,11 @@
   * **Code:** 201 <br />
     **Content:** 
     
-                {
-                 	"title": "post1",
-                 	"date": "2017-10-10",
-                 	"text": "post1 text1"
-                 }
+         {
+             "title": "post1",
+             "date": "2017-10-10",
+             "text": "post1 text1"
+         }
  
 * **Error Response example:**
   * **Code:** 400 bad request
@@ -52,12 +52,12 @@
   * **Code:** 200 <br />
     **Content:** 
     
-                   {
-                     "id": 1,
-                     "title": "post1 text1",
-                     "date": 1507593600000,
-                     "text": null
-                   }
+         {
+             "id": 1,
+             "title": "post1",
+             "date": 1507593600000,
+             "text": "post1 text"
+         }
  
  * **Error Response example:**
      * **Code:** 404 not found
@@ -77,12 +77,12 @@
    * **Code:** 200 <br />
      **Content:** 
      
-            [
+         [
                     {
                       "id": 1,
-                      "title": "post1 text1",
+                      "title": "post1",
                       "date": 1507593600000,
-                      "text": null
+                      "text": "post1 text1"
                     },
                     {
                       "id": 2,
@@ -96,7 +96,7 @@
                       "date": 1507593600000,
                       "text": "post3 text3"
                     }
-            ]
+         ]
   
  * **Error Response example:**
    * **Code:** 404 not found
@@ -146,11 +146,11 @@
    * **Code:** 201 <br />
      **Content:** 
      
-                 {
-                  	"title": "post1",
-                  	"date": "2017-10-10",
-                  	"text": "post1 text1"
-                  }
+         {
+             "title": "post1",
+             "date": "2017-10-10",
+             "text": "post1 text1"
+         }
   
  * **Error Response example:**
    * **Code:** 400 bad request
