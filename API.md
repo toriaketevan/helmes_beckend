@@ -2,7 +2,7 @@
 ----
 * **URL**
 
-  api/article
+  api/article/
 
 * **Method:**
 
