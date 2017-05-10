@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72662ca4-d7f6-45e5-900d-ae31f9d986b1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/API.md" afterPath="$PROJECT_DIR$/API.md" />
-    </list>
+    <list default="true" id="72662ca4-d7f6-45e5-900d-ae31f9d986b1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,8 +63,8 @@
         <entry file="file://$PROJECT_DIR$/API.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <first_editor relative-caret-position="255">
+                <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -647,7 +645,7 @@
       <updated>1494360176274</updated>
       <workItem from="1494360181651" duration="1262000" />
       <workItem from="1494361491420" duration="8901000" />
-      <workItem from="1494371916335" duration="23535000" />
+      <workItem from="1494371916335" duration="23577000" />
     </task>
     <servers />
   </component>
@@ -657,7 +655,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33698000" />
+    <option name="totallyTimeSpent" value="33740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -1031,8 +1029,8 @@
     <entry file="file://$PROJECT_DIR$/API.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />
